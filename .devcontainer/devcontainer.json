@@ -23,11 +23,20 @@
         "esbenp.prettier-vscode",
         "GitHub.copilot",
         "ms-vscode.azure-account",
-        "ms-azuretools.vscode-azurestaticwebapps"
+        "ms-azuretools.vscode-azurestaticwebapps",
+        "oderwat.indent-rainbow"
       ],
       "settings": {
         "emmet.includeLanguages": {
-          "javascript": "javascriptreact"
+          "javascript": "javascriptreact",
+          "typescript": "typescriptreact",
+          "javascriptreact": "html",
+          "typescriptreact": "html",
+          "markdown": "html",
+          "vue-html": "html",
+          "plaintext": "jade",
+          "php": "html",
+          "blade": "html"
         },
         "emmet.triggerExpansionOnTab": true
       }
