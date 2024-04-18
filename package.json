@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://Hide349.github.io/Treino_codespace",
+  "homepage": "http://Hide349.github.io/Treino_codespace",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
