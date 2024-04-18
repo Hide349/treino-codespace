@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://Hide349.github.io/Treino_codespace",
+  "homepage": "https://Hide349.github.io/treino-codespace",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://Hide349.github.io/Treino_codespace'",
+    "build-gh": "parcel build --public-url 'https://Hide349.github.io/treino-codespace'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
